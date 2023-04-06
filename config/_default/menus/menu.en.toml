@@ -1,0 +1,47 @@
+[[main]]
+  name = "EDA tools"
+  url = "eda-tools/"
+  weight = -110
+
+[[main]]
+  name = "Blog"
+  url = "post/"
+  weight = -109
+
+[[main]]
+  name = "Meetings"
+  url = "meetings/"
+  weight = -108
+
+[[main]]
+  name = "Tutorials"
+  url = "tutorials/"
+  weight = -107
+
+[[main]]
+  name = "Announcements"
+  url = "annoucements/"
+  weight = -106
+
+[[main]]
+  name = "Notebooks"
+  url = "notebooks/"
+  weight = -103
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  parent = "Projects"
+  name = "OpenFASOC"
+  url = "https://github.com/idea-fasoc/OpenFASOC"
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -102
+# social menu links
+
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/#"
