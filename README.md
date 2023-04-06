@@ -1,10 +1,11 @@
 # CHIPS Alliance Analog Working Group Website
 
-```
+---
 **NOTE**
 
-Website structure - https://docs.google.com/spreadsheets/d/1fYbMsQgkgVBJDAj6CxPOYMUuXur-hIbAmq9_XgJ4SJw/edit?usp=sharing
-```
+[Website structure](https://docs.google.com/spreadsheets/d/1fYbMsQgkgVBJDAj6CxPOYMUuXur-hIbAmq9_XgJ4SJw/edit?usp=sharing)
+
+---
 
 This site is based off of [Hugo Clarity theme](https://github.com/chipzoller/hugo-clarity)
 
